@@ -1,0 +1,162 @@
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/english/english
+eval_f1 = 0.9644637332416638
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/english/german
+eval_f1 = 0.8783664180048046
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/english/dutch
+eval_f1 = 0.8773873185637892
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/english/spanish
+eval_f1 = 0.8739835762015941
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/english/portugese
+eval_f1 = 0.7938002369744133
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/english/french
+eval_f1 = 0.8450354426450044
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/english/polish
+eval_f1 = 0.8263579123657386
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/english/hungarian
+eval_f1 = 0.7859009225190636
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/english/finnish
+eval_f1 = 0.7494629430719657
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/german/english
+eval_f1 = 0.8543003574658684
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/german/german
+eval_f1 = 0.9482309358616143
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/german/dutch
+eval_f1 = 0.8737530428141855
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/german/spanish
+eval_f1 = 0.8729130351547151
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/german/portugese
+eval_f1 = 0.8780949078816724
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/german/french
+eval_f1 = 0.8672348290378888
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/german/polish
+eval_f1 = 0.8307296689167472
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/german/hungarian
+eval_f1 = 0.8278971095200212
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/german/finnish
+eval_f1 = 0.7418237527476186
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/dutch/english
+eval_f1 = 0.8308996088657106
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/dutch/german
+eval_f1 = 0.8503931973658974
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/dutch/dutch
+eval_f1 = 0.9710227814317033
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/dutch/spanish
+eval_f1 = 0.8835815474028333
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/dutch/portugese
+eval_f1 = 0.7739057075180896
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/dutch/french
+eval_f1 = 0.8447792207792209
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/dutch/polish
+eval_f1 = 0.8183132530120483
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/dutch/hungarian
+eval_f1 = 0.8045842839709239
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/dutch/finnish
+eval_f1 = 0.7540906809436173
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/spanish/english
+eval_f1 = 0.8201120229256219
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/spanish/german
+eval_f1 = 0.8321622738689473
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/spanish/dutch
+eval_f1 = 0.8621695271788498
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/spanish/spanish
+eval_f1 = 0.98839689786479
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/spanish/portugese
+eval_f1 = 0.813483291110645
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/spanish/french
+eval_f1 = 0.8802069857697284
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/spanish/polish
+eval_f1 = 0.8461698818171614
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/spanish/hungarian
+eval_f1 = 0.7967948717948717
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/spanish/finnish
+eval_f1 = 0.7399866041527127
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/portugese/english
+eval_f1 = 0.819059967585089
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/portugese/german
+eval_f1 = 0.8441931714096207
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/portugese/dutch
+eval_f1 = 0.8602057908590571
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/portugese/spanish
+eval_f1 = 0.9125573566834312
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/portugese/portugese
+eval_f1 = 0.9843616009479706
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/portugese/french
+eval_f1 = 0.9186788503752106
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/portugese/polish
+eval_f1 = 0.8100603492552646
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/portugese/hungarian
+eval_f1 = 0.7825161049885534
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/portugese/finnish
+eval_f1 = 0.7240919693435521
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/french/english
+eval_f1 = 0.808360100703186
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/french/german
+eval_f1 = 0.880010091135568
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/french/dutch
+eval_f1 = 0.8649268712360194
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/french/spanish
+eval_f1 = 0.9234720903503073
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/french/portugese
+eval_f1 = 0.9087508183433611
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/french/french
+eval_f1 = 0.9794259588519176
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/french/polish
+eval_f1 = 0.8454329546183965
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/french/hungarian
+eval_f1 = 0.7867611789159517
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/french/finnish
+eval_f1 = 0.7446687422583776
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/polish/english
+eval_f1 = 0.7245130724688543
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/polish/german
+eval_f1 = 0.7545775778991328
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/polish/dutch
+eval_f1 = 0.7257946745850168
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/polish/spanish
+eval_f1 = 0.7977691066211771
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/polish/portugese
+eval_f1 = 0.6415192254674602
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/polish/french
+eval_f1 = 0.7199192176870748
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/polish/polish
+eval_f1 = 0.9862523750977982
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/polish/hungarian
+eval_f1 = 0.6760518487037824
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/polish/finnish
+eval_f1 = 0.74402753182532
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/hungarian/english
+eval_f1 = 0.7094936289556787
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/hungarian/german
+eval_f1 = 0.7260167347733022
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/hungarian/dutch
+eval_f1 = 0.6864282214600685
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/hungarian/spanish
+eval_f1 = 0.726170546827072
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/hungarian/portugese
+eval_f1 = 0.6346443903004988
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/hungarian/french
+eval_f1 = 0.6590872526411756
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/hungarian/polish
+eval_f1 = 0.7503723221445756
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/hungarian/hungarian
+eval_f1 = 0.9394518801784577
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/hungarian/finnish
+eval_f1 = 0.7337777628890155
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/finnish/english
+eval_f1 = 0.708781920099653
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/finnish/german
+eval_f1 = 0.7168052159739201
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/finnish/dutch
+eval_f1 = 0.7089629374415514
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/finnish/spanish
+eval_f1 = 0.7115673670408391
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/finnish/portugese
+eval_f1 = 0.6317202046464815
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/finnish/french
+eval_f1 = 0.6683076249863255
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/finnish/polish
+eval_f1 = 0.7755781502456222
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/finnish/hungarian
+eval_f1 = 0.7065117535801134
+Moved to dir: /home/tapuz/language_distancing/transformers/examples/token-classification/finnish/finnish
+eval_f1 = 0.9425965843143759

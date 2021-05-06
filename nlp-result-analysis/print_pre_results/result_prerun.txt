@@ -1,0 +1,32 @@
+Moved to dir: /home/cs08/DanielAnat/GitProjects/transformers/examples/legacy/token-classification/EN/EN
+test_f1 = 0.9658803796258943
+Moved to dir: /home/cs08/DanielAnat/GitProjects/transformers/examples/legacy/token-classification/EN/NL
+test_f1 = 0.8752390057361378
+Moved to dir: /home/cs08/DanielAnat/GitProjects/transformers/examples/legacy/token-classification/EN/FR
+test_f1 = 0.8269290846610434
+Moved to dir: /home/cs08/DanielAnat/GitProjects/transformers/examples/legacy/token-classification/EN/FI
+test_f1 = 0.7405120633535788
+Moved to dir: /home/cs08/DanielAnat/GitProjects/transformers/examples/legacy/token-classification/NL/EN
+test_f1 = 0.7671064743786437
+Moved to dir: /home/cs08/DanielAnat/GitProjects/transformers/examples/legacy/token-classification/NL/NL
+test_f1 = 0.9690957649752003
+Moved to dir: /home/cs08/DanielAnat/GitProjects/transformers/examples/legacy/token-classification/NL/FR
+test_f1 = 0.8320292123109024
+Moved to dir: /home/cs08/DanielAnat/GitProjects/transformers/examples/legacy/token-classification/NL/FI
+test_f1 = 0.7423785594639866
+Moved to dir: /home/cs08/DanielAnat/GitProjects/transformers/examples/legacy/token-classification/FR/EN
+test_f1 = 0.7840899302265484
+Moved to dir: /home/cs08/DanielAnat/GitProjects/transformers/examples/legacy/token-classification/FR/NL
+test_f1 = 0.8628295296875748
+Moved to dir: /home/cs08/DanielAnat/GitProjects/transformers/examples/legacy/token-classification/FR/FR
+test_f1 = 0.9794422959495217
+Moved to dir: /home/cs08/DanielAnat/GitProjects/transformers/examples/legacy/token-classification/FR/FI
+test_f1 = 0.7325138912274795
+Moved to dir: /home/cs08/DanielAnat/GitProjects/transformers/examples/legacy/token-classification/FI/EN
+test_f1 = 0.6447283347825117
+Moved to dir: /home/cs08/DanielAnat/GitProjects/transformers/examples/legacy/token-classification/FI/NL
+test_f1 = 0.6939975093399751
+Moved to dir: /home/cs08/DanielAnat/GitProjects/transformers/examples/legacy/token-classification/FI/FR
+test_f1 = 0.5943873298138372
+Moved to dir: /home/cs08/DanielAnat/GitProjects/transformers/examples/legacy/token-classification/FI/FI
+test_f1 = 0.9452769379007875
